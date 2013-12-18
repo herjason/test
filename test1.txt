@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-test1 edit again master!
-=======
-test1 edit again online
->>>>>>> 188a343224a5c83a2360992ce424f66833b3e29b
